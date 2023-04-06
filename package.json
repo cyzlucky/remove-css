@@ -1,0 +1,14 @@
+{
+  "name": "remove-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "author": "cyzlucky@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "css": "^3.0.0"
+  }
+}
